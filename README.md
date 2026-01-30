@@ -13,6 +13,16 @@
 
 
 ---
+
+---
+## 5 key components of time series analysis:  
+1. Trend Analysis: Examining the overall direction of the data to identify long-term patterns, such as increasing or decreasing trends. Like the silly little triangle wedge things you draw on random price charts.
+2. Seasonal Analysis: Identifying recurring patterns or cycles that repeat over a fixed period, often related to seasons, months, or days. Like how the market always dumps in September, probably just because everyone thinks it will, so it does.
+3. Cyclical Analysis: Identifying patterns that occur at irregular intervals, indicating longer-term economic or business cycles. Like the 4 year BTC cycle that will continue ad infinitum.
+4. Noise or Random Fluctuations: Accounting for irregular and unpredictable variations in the data. Like the blatant market manipulation ruining your shorts.
+5. Forecasting: Using historical data to make predictions about future values, helping in decision-making and planning.
+---
 Git error: (cmd: del .git\index.lock)
+
 
 
