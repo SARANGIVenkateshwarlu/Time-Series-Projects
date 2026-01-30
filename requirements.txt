@@ -1,0 +1,22 @@
+numpy               # numerical computing
+pandas              # time series data handling
+scipy               # statistics & optimization
+statsmodels         # econometric time series models
+arch                # volatility modeling (GARCH)
+pmdarima            # auto ARIMA
+scikit-learn        # machine learning
+xgboost             # gradient boosting
+lightgbm             # fast gradient boosting
+catboost            # categorical boosting
+tensorflow          # deep learning
+keras                # neural network API
+torch                # deep learning (PyTorch)
+yfinance            # market data,                   
+tsfresh              # time series feature extraction
+sktime               # time series framework
+prophet              # trend-based forecasting
+matplotlib          # plotting
+seaborn             # statistical visualization
+plotly               # interactive charts
+cvxpy                # optimization
+pyportfolioopt       # portfolio optimization
